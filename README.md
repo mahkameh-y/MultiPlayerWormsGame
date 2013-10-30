@@ -9,6 +9,8 @@ The code is designed and developed in Java by 4 software engineer undergraduate 
 of the Advanced Software Engineering course. 
 My contribution was mainly in the netwrok communication manager component. 
 
-To run the game: simply run server\gameEngine\GameEngine.java to start the server and then 
-run startupUI\pages\Engine.java to initiate your game!
+To run the game: 
+1- Add lib directory to your CLASSPATH 
+2- Run networkManager\GameServer.java to start the server and then 
+3- Run startupUI\pages\Engine.java to initiate your game! 
 
